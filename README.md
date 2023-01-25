@@ -13,7 +13,7 @@ create your own list
 
 
 ```bash
-  https://create-you-todo-lists.netlify.app/
+  (https://create-you-todo-lists.netlify.app/)
 ```
 
 
