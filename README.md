@@ -12,9 +12,8 @@ create your own list
 
 
 
-```bash
-  (https://create-you-todo-lists.netlify.app/)
-```
+ - [https://create-you-todo-lists.netlify.app/](https://create-you-todo-lists.netlify.app/)
+
 
 
 ## Features
@@ -40,4 +39,4 @@ create your own list
 
 ## Support
 
-For support, email youssefhaddar9@gmail.com.
+For support, email youssefhaddar9@gmail.com or in instagram [@yhaddar](https://www.instagram.com/yusef_haddar/?hl=fr)
